@@ -54,7 +54,7 @@ a {
 }
 
 .reveal.active {
-  opacity: 1;
+  opacity: 500;
   transform: translateY(0);
 }
 
@@ -248,6 +248,13 @@ footer {
   margin-top: 2rem;
   font-size: 0.9rem;
   opacity: 0.9;
+}
+
+.cert-warp {
+  display: block;
+  width: 200px;
+  height: auto;
+  margin: 20px auto;
 }
 
 .logo {
